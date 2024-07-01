@@ -4,7 +4,7 @@
 
 For this project, I was assigned to develop an object oriented programming application to create two clocks displaying simultaneously in both 12 hr and 24 hr formats. 
 
-2. hat did you do particularly well?
+2. What did you do particularly well?
 
 One thing done particularly well was adhering to industry standards for code clarity and efficiency. The code was effective and ensured that each function had a specific purpose.
 
